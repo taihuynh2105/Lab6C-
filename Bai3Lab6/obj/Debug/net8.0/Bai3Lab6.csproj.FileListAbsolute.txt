@@ -1,0 +1,14 @@
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\bin\Debug\net8.0\Bai3Lab6.exe
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\bin\Debug\net8.0\Bai3Lab6.deps.json
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\bin\Debug\net8.0\Bai3Lab6.runtimeconfig.json
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\bin\Debug\net8.0\Bai3Lab6.dll
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\bin\Debug\net8.0\Bai3Lab6.pdb
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\Bai3Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\Bai3Lab6.AssemblyInfoInputs.cache
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\Bai3Lab6.AssemblyInfo.cs
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\Bai3Lab6.csproj.CoreCompileInputs.cache
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\Bai3Lab6.dll
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\refint\Bai3Lab6.dll
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\Bai3Lab6.pdb
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\Bai3Lab6.genruntimeconfig.cache
+C:\Users\T&T\Desktop\Lab6\Bai3Lab6\obj\Debug\net8.0\ref\Bai3Lab6.dll

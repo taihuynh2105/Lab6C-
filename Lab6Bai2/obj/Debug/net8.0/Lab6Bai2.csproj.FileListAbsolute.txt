@@ -1,0 +1,14 @@
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\bin\Debug\net8.0\Lab6Bai2.exe
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\bin\Debug\net8.0\Lab6Bai2.deps.json
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\bin\Debug\net8.0\Lab6Bai2.runtimeconfig.json
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\bin\Debug\net8.0\Lab6Bai2.dll
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\bin\Debug\net8.0\Lab6Bai2.pdb
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\Lab6Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\Lab6Bai2.AssemblyInfoInputs.cache
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\Lab6Bai2.AssemblyInfo.cs
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\Lab6Bai2.csproj.CoreCompileInputs.cache
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\Lab6Bai2.dll
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\refint\Lab6Bai2.dll
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\Lab6Bai2.pdb
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\Lab6Bai2.genruntimeconfig.cache
+C:\Users\T&T\Desktop\Lab6\Lab6Bai2\obj\Debug\net8.0\ref\Lab6Bai2.dll
